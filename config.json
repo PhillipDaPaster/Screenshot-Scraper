@@ -1,6 +1,9 @@
-{ "interval":"3",
+{ 
+  "interval":"3",
   "loop":"forever",
   "webhook":"WEBHOOK HERE",
   "url_prefix": "https://imgbb.com/"
-   "url types to choose from": "https://imgbb.com/ | https://prnt.sc/ | https://ibb.co/",
- }
+  "url types to choose from": "https://imgbb.com/ | https://prnt.sc/ | https://ibb.co/ | https://imgbb.host/image/",
+  "str_length":"5"
+  "str_length-g": "any lightshot website is 6 | imgbb is 5",
+}
