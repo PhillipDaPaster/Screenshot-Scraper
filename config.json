@@ -4,5 +4,5 @@
   "webhook":"WEBHOOK HERE",
   "url_prefix": "https://imgbb.com/"
   "url types to choose from": "https://imgbb.com/ | https://prnt.sc/ | https://ibb.co/ ",
-  "str_length":"5"
+  "str_length":"6"
 }
